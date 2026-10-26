@@ -14,7 +14,7 @@ section:AddButton("67", function()
     print("Você clicou no botão 67!")
 
     if shared.Notify then
-        shared.Notify("67", 2)
+        shared.Notify("57", 2)
     end
 end)
 .
